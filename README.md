@@ -35,3 +35,5 @@ Serving a HuggingFace model
 Multi-Model Serving with multiple frameworks
 
 Loading / unloading models from a model repository
+
+https://mlserver.readthedocs.io/en/latest/index.html#examples
